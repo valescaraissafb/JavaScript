@@ -38,7 +38,24 @@ console.log("Total arredondado; " ,totalArredondado);*/
 console.log("Em maiúsculo: " + mensagem.toUpperCase());
 console.log("Em minúscula: " + mensagem.toLowerCase());*/
 
-let palavra = "JavaScript"
+/*let palavra = "JavaScript"
 console.log("Primeira letra: " + palavra[0]); // 
+console.log("Ultima letra: " + palavra[palavra.length -1]);
+console.log(palavra.length);*/
+
+/*let idade = 20
+let idadeMinima = 18
+let podeEntrar = idade >= idadeMinima 
+console.log(podeEntrar); // */
+
+/*let resposta = "" 
+let booleano = !!resposta; //
+console.log(booleano); // */
+
+/*let resposta = "Olá"
+let booleano = !!resposta; //
+console.log(booleano); //
+
+
 
 
